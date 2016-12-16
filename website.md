@@ -11,3 +11,6 @@
 
 ##精益 React 学习指南 （Lean React）
 <https://zhuanlan.zhihu.com/p/21107252>
+
+##前端资源汇总
+<https://segmentfault.com/a/1190000006696065>
