@@ -8,3 +8,6 @@
 
 ##用markdown写下你的第一个md文档
 <http://www.jianshu.com/p/de9c98bba332>
+
+##精益 React 学习指南 （Lean React）
+<https://zhuanlan.zhihu.com/p/21107252>
