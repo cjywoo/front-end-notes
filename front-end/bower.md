@@ -1,0 +1,1 @@
+#什么是BowerBower是一个客户端技术的软件包管理器，它可用于搜索、安装和卸载如JavaScript、HTML、CSS之类的网络资源。其他一些建立在Bower基础之上的开发工具，如YeoMan和Grunt。#前提准备为了安装bower，你首先需要安装如下文件* Node：下载最新版本的node.js\* NPM：NPM是node程序包管理器。它是捆绑在nodejs的安装程序上的，所以一旦你已经安装了node，NPM也就安装好了。* Git：你需要从git仓库获取一些代码包。
